@@ -1,5 +1,5 @@
 # Uhrzeitaddierer
-# Hier wird eine Funktion definiert welche zu einer bestimmten Uhrzeit eine Anzahl Minuten addiert.
+### Hier wird eine Funktion definiert welche zu einer bestimmten Uhrzeit eine Anzahl Minuten addiert.
 def uhrzeit_minuten_addieren(stunden, minuten, summand): # Die Variable "uhrzeit_minuten_addieren" wird definiert.
     neueMinuten=minuten+summand 
     while neueMinuten >=60: # Wenn die neuen Minuten (Minuten+Summand) über 60 liegen, muss ...
